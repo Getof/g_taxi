@@ -1,5 +1,7 @@
 {
     "require": {
-        "vkcom/vk-php-sdk": "^5.101"
+        "vkcom/vk-php-sdk": "^5.101",
+        "vlucas/phpdotenv": "^4.1",
+      "ext-json": "*"
     }
 }
